@@ -1,5 +1,3 @@
-// https://dummyjson.com/users/{userId}
-// https://dummyjson.com/users/{userId}
 
 
 
